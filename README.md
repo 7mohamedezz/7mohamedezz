@@ -24,48 +24,51 @@
 
 ```javascript
 
-const mernDeveloper = {
 
-  name: "Mohamed Ezz",
-  title: "Backend Developer",
-  location: "Egypt",
-  
-  expertise: {
+const DotNetDeveloper = {
 
-backend: {
-  runtime: ".NET 9 / .NET 10",
-  frameworks: ["ASP.NET Core Web API"],
-  architecture: ["Clean Architecture"],
-  realTime: "SignalR",
-  apiDesign: ["RESTful APIs"],
-  authentication: ["IdentityServer", "Microsoft Identity", "JWT", "OAuth2"],
-  security: ["Data Protection API", "FluentValidation", "CORS"]
-},
+    name: "Mohamed Ezz",
+    title: "Backend Developer",
+    location: "Egypt",
 
-database: {
-  primary: "PostgreSQL",
-  others: ["SQL Server", "MongoDB"],
-  design: ["Entity Relationship (ERD)", "Code-First Migrations (EF Core)"]
-},
+    expertise: {
 
-problemSolving: {
-  level: "Advanced",
-  skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"],
-  competitiveProgramming: ["C++", "C#"],
-}
- },
+        backend: {
+            runtime: ".NET 9 / .NET 10",
+            frameworks: ["ASP.NET Core Web API"],
+            architecture: ["Clean Architecture"],
+            realTime: "SignalR",
+            apiDesign: ["RESTful APIs"],
+            authentication: ["IdentityServer", "Microsoft Identity", "JWT", "OAuth2"],
+            security: ["Data Protection API", "FluentValidation", "CORS"]
+        },
 
-  currentlyLearning: [
-    "Advanced .Net",
-    "System Design",
-    "Microservices Architecture",
-    "Docker & Containerization",
-    "Backend Testing (Unit & Integration)"
-  ],
+        database: {
+            primary: "PostgreSQL",
+            others: ["SQL Server", "MongoDB"],
+            design: ["Entity Relationship (ERD)", "Code-First Migrations (EF Core)"]
+        },
 
-  passion: "Building full-stack applications that solve real-world problems",
-  motto: "Clean code, scalable architecture, seamless user experience"
+        problemSolving: {
+            level: "Advanced",
+            skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"],
+            competitiveProgramming: ["C++", "C#"],
+        }
+    },
+
+    currentlyLearning: [
+        "Advanced .Net",
+        "System Design",
+        "Microservices Architecture",
+        "Docker & Containerization",
+        "Backend Testing (Unit & Integration)"
+    ],
+
+    passion: "Building full-stack applications that solve real-world problems",
+    motto: "Clean code, scalable architecture, seamless user experience"
 };
+
+console.log("Let's build scalable, high-performance web applications!");
 
 console.log("Let's build scalable, high-performance web applications!");
 ```
