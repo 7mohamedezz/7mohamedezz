@@ -23,56 +23,40 @@
 </div>
 
 ```javascript
+
 const mernDeveloper = {
+
   name: "Mohamed Ezz",
-  title: "Full-Stack Developer",
+  title: "Backend Developer",
   location: "Egypt",
   
   expertise: {
-    frontend: {
-      library: ["React.js", "Next.js"],
-      stateManagement: ["Zustand", "Context API", "Redux Toolkit"],
-      styling: ["Tailwind CSS", "Material-UI", "Bootstrap", "Sass"],
-      realTime: "Socket.io",
-      tools: ["React Router DOM", "Axios", "Formik", "Yup", "AOS"],
-      uiFocus: ["Responsive Design", "Reusable Components", "Modern UI/UX"]
-    },
 
-    backend: {
-      runtime: "Node.js",
-      frameworks: ["Express.js", "NestJS"],
-      architecture: ["Modular Architecture", "Feature-Based Structure"],
-      realTime: "Socket.io",
-      apiDesign: ["RESTful APIs", "GraphQL"],
-      authentication: ["JWT", "OAuth", "OTP", "2FA"],
-      security: ["bcrypt", "Input Validation", "CORS", "Centralized Error Handling"],
-      caching: "Redis",
-    },
+backend: {
+  runtime: ".NET 9 / .NET 10",
+  frameworks: ["ASP.NET Core Web API"],
+  architecture: ["Clean Architecture"],
+  realTime: "SignalR",
+  apiDesign: ["RESTful APIs"],
+  authentication: ["IdentityServer", "Microsoft Identity", "JWT", "OAuth2"],
+  security: ["Data Protection API", "FluentValidation", "CORS"]
+},
 
-    database: {
-      primary: "MongoDB",
-      orm: "Mongoose",
-      others: ["PostgreSQL", "MySQL"],
-      design: ["ERD Design"]
-    },
+database: {
+  primary: "PostgreSQL",
+  others: ["SQL Server", "MongoDB"],
+  design: ["Entity Relationship (ERD)", "Code-First Migrations (EF Core)"]
+},
 
-    devOps: {
-      containerization: "Docker",
-      cloud: ["AWS EC2", "AWS S3"],
-      mediaStorage: ["Cloudinary"],
-      cicd: "GitHub Actions",
-      deployment: ["Vercel", "Heroku", "Railway"]
-    },
-
-    problemSolving: {
-      level: "Advanced",
-      skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"],
-      competitiveProgramming: ["C++", "Java"],
-    }
-  },
+problemSolving: {
+  level: "Advanced",
+  skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"],
+  competitiveProgramming: ["C++", "C#"],
+}
+ },
 
   currentlyLearning: [
-    "Advanced NestJS",
+    "Advanced .Net",
     "System Design",
     "Microservices Architecture",
     "Docker & Containerization",
@@ -84,7 +68,8 @@ const mernDeveloper = {
 };
 
 console.log("Let's build scalable, high-performance web applications!");
-##<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+```
+## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;" />
@@ -92,33 +77,7 @@ Tech Stack
 </h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,tailwind,react,redux,nextjs,vite,nodejs,express,nestjs,graphql,npm,postman,git,github,gitlab,jquery,sass,figma,githubactions,mysql,postgres,vercel,regex,vitest,mui,mongodb,ubuntu,aws,docker,redis,prisma,yarn&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css,bootstrap,tailwind,react,nodejs,express,npm,postman,git,github,figma,mysql,postgres,vercel,mongodb,ubuntu,aws,docker&perline=8" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git"> GitHub Statistics
-</h2>
-
-<p align="center">
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D7mohamedezz%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117%26stroke%3D00F7FF%26ring%3D00F7FF%26fire%3DFF6D00%26currStreakLabel%3D00F7FF" />
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D7mohamedezz%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00F7FF%26text_color%3DFFFFFF" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2>
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="30" />
-Activity Graph
-</h2>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3D7mohamedezz%26custom_title%3DMohamed%2520Ezz%27s%2520Contribution%2520Graph%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue%26bg_color%3D0D1117%26color%3D00F7FF%26line%3D00F7FF%26point%3DFFFFFF" alt="Contribution Graph" />
-</p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=100&section=footer" />
-
-</div>
