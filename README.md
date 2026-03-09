@@ -1,10 +1,352 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ezz</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/7mohamedezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="7mohamedezz" height="30" width="40" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Mohamed%20Ezz&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Frontend%20(React%2FNext.js)%20%2B%20Backend%20(Node.js%2FNestJS)&descAlignY=55&descSize=18" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Full-Stack+Developer+(React+%2F+Next.js+%2B+Node.js+%2F+NestJS);Competitive+Programmer;Problem+Solving+Instructor;Strong+in+Data+Structures+%26+Algorithms" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=7mohamedezz&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/7mohamedezz?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/7mohamedezz?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
+
+</div>
+
+```javascript
+const mernDeveloper = {
+  name: "Mohamed Ezz",
+  title: "Full-Stack Developer",
+  location: "Egypt",
+  
+  expertise: {
+    frontend: {
+      library: ["React.js", "Next.js"],
+      stateManagement: ["Zustand", "Context API", "Redux Toolkit"],
+      styling: ["Tailwind CSS", "Material-UI", "Bootstrap", "Sass"],
+      realTime: "Socket.io",
+      tools: ["React Router DOM", "Axios", "Formik", "Yup", "AOS"],
+      uiFocus: ["Responsive Design", "Reusable Components", "Modern UI/UX"]
+    },
+
+    backend: {
+      runtime: "Node.js",
+      frameworks: ["Express.js", "NestJS"],
+      architecture: ["Modular Architecture", "Feature-Based Structure"],
+      realTime: "Socket.io",
+      apiDesign: ["RESTful APIs", "GraphQL"],
+      authentication: ["JWT", "OAuth", "OTP", "2FA"],
+      security: ["bcrypt", "Input Validation", "CORS", "Centralized Error Handling"],
+      caching: "Redis",
+    },
+
+    database: {
+      primary: "MongoDB",
+      orm: "Mongoose",
+      others: ["PostgreSQL", "MySQL"],
+      design: ["ERD Design"]
+    },
+
+    devOps: {
+      containerization: "Docker",
+      cloud: ["AWS EC2", "AWS S3"],
+      mediaStorage: ["Cloudinary"],
+      cicd: "GitHub Actions",
+      deployment: ["Vercel", "Heroku", "Railway"]
+    },
+
+    problemSolving: {
+      level: "Advanced",
+      skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"],
+      competitiveProgramming: ["C++", "Java"],
+    }
+
+  },
+
+  currentlyLearning: [
+  "Advanced NestJS",
+  "System Design",
+  "Microservices Architecture",
+  "Docker & Containerization",
+  "Backend Testing (Unit & Integration)"
+  ],
+
+  passion: "Building full-stack applications that solve real-world problems",
+  motto: "Clean code, scalable architecture, seamless user experience"
+};
+
+console.log("Let's build scalable, high-performance web applications!");
+Gemini said
+It looks like you have a solid tech stack! I've updated the code to point to your username, 7mohamedezz, and removed the Snake Game section as requested. I also updated the header text to "Mohamed Ezz"—feel free to change the text parameter in the first URL if you'd like your full name there instead.
+
+Here is the updated Markdown for your GitHub README:
+
+Markdown
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Mohamed%20Ezz&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Frontend%20(React%2FNext.js)%20%2B%20Backend%20(Node.js%2FNestJS)&descAlignY=55&descSize=18" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Full-Stack+Developer+(React+%2F+Next.js+%2B+Node.js+%2F+NestJS);Competitive+Programmer;Problem+Solving+Instructor;Strong+in+Data+Structures+%26+Algorithms" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=7mohamedezz&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/7mohamedezz?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/7mohamedezz?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="stars" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
+
+</div>
+
+```javascript
+const mernDeveloper = {
+  name: "Mohamed Ezz",
+  title: "Full-Stack Developer",
+  location: "Egypt",
+  
+  expertise: {
+    frontend: {
+      library: ["React.js", "Next.js"],
+      stateManagement: ["Zustand", "Context API", "Redux Toolkit"],
+      styling: ["Tailwind CSS", "Material-UI", "Bootstrap", "Sass"],
+      realTime: "Socket.io",
+      tools: ["React Router DOM", "Axios", "Formik", "Yup", "AOS"],
+      uiFocus: ["Responsive Design", "Reusable Components", "Modern UI/UX"]
+    },
+
+    backend: {
+      runtime: "Node.js",
+      frameworks: ["Express.js", "NestJS"],
+      architecture: ["Modular Architecture", "Feature-Based Structure"],
+      realTime: "Socket.io",
+      apiDesign: ["RESTful APIs", "GraphQL"],
+      authentication: ["JWT", "OAuth", "OTP", "2FA"],
+      security: ["bcrypt", "Input Validation", "CORS", "Centralized Error Handling"],
+      caching: "Redis",
+    },
+
+    database: {
+      primary: "MongoDB",
+      orm: "Mongoose",
+      others: ["PostgreSQL", "MySQL"],
+      design: ["ERD Design"]
+    },
+
+    devOps: {
+      containerization: "Docker",
+      cloud: ["AWS EC2", "AWS S3"],
+      mediaStorage: ["Cloudinary"],
+      cicd: "GitHub Actions",
+      deployment: ["Vercel", "Heroku", "Railway"]
+    },
+
+    problemSolving: {
+      level: "Advanced",
+      skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"],
+      competitiveProgramming: ["C++", "Java"],
+    }
+
+  },
+
+  currentlyLearning: [
+  "Advanced NestJS",
+  "System Design",
+  "Microservices Architecture",
+  "Docker & Containerization",
+  "Backend Testing (Unit & Integration)"
+  ],
+
+  passion: "Building full-stack applications that solve real-world problems",
+  motto: "Clean code, scalable architecture, seamless user experience"
+};
+
+console.log("Let's build scalable, high-performance web applications!");
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 >
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;" />
+Tech Stack
+</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,tailwind,react,redux,nextjs,vite,nodejs,express,nestjs,graphql,npm,postman,git,github,gitlab,jquery,sass,figma,githubactions,mysql,postgres,vercel,regex,vitest,mui,mongodb,ubuntu,aws,docker,redis,prisma,yarn&perline=10" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git"> GitHub Statistics
+<p align="center">
+<img width="49%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D7mohamedezz%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117%26stroke%3D00F7FF%26ring%3D00F7FF%26fire%3DFF6D00%26currStreakLabel%3D00F7FF" />
+<img width="49%" src="https://www.google.com/search?q=https://github-contributor-stats.vercel.app/api%3Fusername%3D7mohamedezz%26limit%3D5%26theme%3Dradical%26combine_all_yearly_contributions%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00F7FF%26text_color%3DFFFFFF" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="30" />
+Activity Graph
+</h2>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3D7mohamedezz%26custom_title%3DMohamed%2520Ezz%27s%2520Contribution%2520Graph%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue%26bg_color%3D0D1117%26color%3D00F7FF%26line%3D00F7FF%26point%3DFFFFFF" alt="Contribution Graph" />
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=100&section=footer" />
+
+</div>
+
+
+### Key Changes Made:
+
+1.  **Username Update:** All API calls for stats, views, and graphs now point to `7mohamedezz`.
+2.  **Snake Game Removed:** I deleted the entire section containing the animated GitHub snake.
+3.  **Name Personalization:** Updated the header and the JavaScript object to reflect "Mohamed Ezz".
+4.  **Links:** Updated the contribution graph title to match your new display name.
+
+Would you like me to help you set up a **GitHub Action** to automatically update any of these stats, or perhaps add a section for your **top projects**?
+You said
+give me the full code
+
+Gemini said
+Here is the complete, single-block code for your GitHub README.md. I have updated every link to your username 7mohamedezz, changed the header name, and completely removed the Snake Game section.
+
+Markdown
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Mohamed%20Ezz&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Frontend%20(React%2FNext.js)%20%2B%20Backend%20(Node.js%2FNestJS)&descAlignY=55&descSize=18" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Full-Stack+Developer+(React+%2F+Next.js+%2B+Node.js+%2F+NestJS);Competitive+Programmer;Problem+Solving+Instructor;Strong+in+Data+Structures+%26+Algorithms" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=7mohamedezz&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/7mohamedezz?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/7mohamedezz?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="stars" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
+
+</div>
+
+```javascript
+const mernDeveloper = {
+  name: "Mohamed Ezz",
+  title: "Full-Stack Developer",
+  location: "Egypt",
+  
+  expertise: {
+    frontend: {
+      library: ["React.js", "Next.js"],
+      stateManagement: ["Zustand", "Context API", "Redux Toolkit"],
+      styling: ["Tailwind CSS", "Material-UI", "Bootstrap", "Sass"],
+      realTime: "Socket.io",
+      tools: ["React Router DOM", "Axios", "Formik", "Yup", "AOS"],
+      uiFocus: ["Responsive Design", "Reusable Components", "Modern UI/UX"]
+    },
+
+    backend: {
+      runtime: "Node.js",
+      frameworks: ["Express.js", "NestJS"],
+      architecture: ["Modular Architecture", "Feature-Based Structure"],
+      realTime: "Socket.io",
+      apiDesign: ["RESTful APIs", "GraphQL"],
+      authentication: ["JWT", "OAuth", "OTP", "2FA"],
+      security: ["bcrypt", "Input Validation", "CORS", "Centralized Error Handling"],
+      caching: "Redis",
+    },
+
+    database: {
+      primary: "MongoDB",
+      orm: "Mongoose",
+      others: ["PostgreSQL", "MySQL"],
+      design: ["ERD Design"]
+    },
+
+    devOps: {
+      containerization: "Docker",
+      cloud: ["AWS EC2", "AWS S3"],
+      mediaStorage: ["Cloudinary"],
+      cicd: "GitHub Actions",
+      deployment: ["Vercel", "Heroku", "Railway"]
+    },
+
+    problemSolving: {
+      level: "Advanced",
+      skills: ["Data Structures", "Algorithms", "Time & Space complexity Optimization"],
+      competitiveProgramming: ["C++", "Java"],
+    }
+
+  },
+
+  currentlyLearning: [
+    "Advanced NestJS",
+    "System Design",
+    "Microservices Architecture",
+    "Docker & Containerization",
+    "Backend Testing (Unit & Integration)"
+  ],
+
+  passion: "Building full-stack applications that solve real-world problems",
+  motto: "Clean code, scalable architecture, seamless user experience"
+};
+
+console.log("Let's build scalable, high-performance web applications!");
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 >
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;" />
+Tech Stack
+</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,tailwind,react,redux,nextjs,vite,nodejs,express,nestjs,graphql,npm,postman,git,github,gitlab,jquery,sass,figma,githubactions,mysql,postgres,vercel,regex,vitest,mui,mongodb,ubuntu,aws,docker,redis,prisma,yarn&perline=10" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git"> GitHub Statistics
+<p align="center">
+<img width="49%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D7mohamedezz%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117%26stroke%3D00F7FF%26ring%3D00F7FF%26fire%3DFF6D00%26currStreakLabel%3D00F7FF" />
+<img width="49%" src="https://www.google.com/search?q=https://github-contributor-stats.vercel.app/api%3Fusername%3D7mohamedezz%26limit%3D5%26theme%3Dradical%26combine_all_yearly_contributions%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00F7FF%26text_color%3DFFFFFF" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="30" />
+Activity Graph
+</h2>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3D7mohamedezz%26custom_title%3DMohamed%2520Ezz%27s%2520Contribution%2520Graph%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue%26bg_color%3D0D1117%26color%3D00F7FF%26line%3D00F7FF%26point%3DFFFFFF" alt="Contribution Graph" />
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=100&section=footer" />
+
+</div>
