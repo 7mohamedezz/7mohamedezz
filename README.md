@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Mohamed%20Ezz&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=%20back%20end%20(%20.Net%20,%20Node.js%20)&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Mohamed%20Ezz&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Back-End+Developer+(Node.js+%2F+.NET);Competitive+Programmer;Problem+Solving;Data+Structures+%26+Algorithms" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 ```javascript
 
 
-const DotNetDeveloper = {
+const Developer = {
 
     name: "Mohamed Ezz",
     title: "Backend Developer",
