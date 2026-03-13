@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/7mohamedezz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="7mohamdezz@gmail.com">
+  <a href="mailto:7mohamdezz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/Ezz">
@@ -37,6 +37,7 @@
 
 ```javascript
 const MohamedEzz = {
+
   role:     "Backend Developer",
   location: "🇪🇬 Egypt",
   motto:    "Clean code, scalable architecture, seamless user experience",
