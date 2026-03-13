@@ -39,7 +39,7 @@
 const MohamedEzz = {
 
   role:     "Backend Developer",
-  location: "🇪🇬 Egypt",
+  location: "Luxor Egypt",
   motto:    "Clean code, scalable architecture, seamless user experience",
 
   backend: {
